@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+/******* Container ********/
+
+.container{
+    width: 380px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+}
+
+/******** Head of card ***********/
+
+.head{
+    padding: 10px;
+    display: flex;
+}
+
+
+.html5 i{
+    margin-top: 5px;
+}
+
+span.head-text{
+    margin-left: 10px;
+    margin-right: 245px;
+}
+
+.icon-top-right{
+    margin-top: 5px;
+}
+
+/******** Card body ***********/
+
+img{
+    width: 100%;
+}
+
+.body{
+    padding: 20px;
+}
+
+.body p{
+    margin-top: 20px;
+}
+
+.icon-right{
+    float: right;
+}
+
+/***** all ICONS font size *****/
+
+i{
+    font-size: 25px;
+}
